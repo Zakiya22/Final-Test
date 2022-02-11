@@ -1,2 +1,2 @@
-# Final-Test
-## Testing editing this file.
+# IBM Capstone Project
+## See repository for supporting documentation.
